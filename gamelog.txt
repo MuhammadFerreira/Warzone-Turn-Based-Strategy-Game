@@ -1,0 +1,10 @@
+Opened
+Observing Game State Transition Phase information is: 
+ MapLoaded
+Observing Processing Orders Phase, order to added is: 
+Generic
+Opened
+Observing Game State Transition Phase information is: 
+ MapLoaded
+Observing Processing Orders Phase, order to added is: 
+Generic

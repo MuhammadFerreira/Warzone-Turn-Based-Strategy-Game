@@ -1,0 +1,15 @@
+[Continents]
+Left=3
+Right=3
+Center=5
+
+[Territories]
+L1,0,0,Left,L2,L3,C1
+L2,0,0,Left,L1,L3
+L3,0,0,Left,L1,L2
+C1,0,0,Center,L1,C2,C3
+C2,0,0,Center,C1,C3
+C3,0,0,Center,C1,C2,R1
+R1,0,0,Right,C3,R2,R3
+R2,0,0,Right,R1,R3
+R3,0,0,Right,R1,R2

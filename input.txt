@@ -1,0 +1,5 @@
+loadmap simple_map.txt
+validatemap
+addplayer cool
+addplayer nice
+gamestart

@@ -1,0 +1,35 @@
+Opened
+Observing Game State Transition Phase information is: 
+ MapLoaded
+Observing Issueing Orders Phase, Order to be executed is: 
+ Orders: Generic
+Observing Processing Orders Phase, order to added is: 
+Deploy
+Opened
+Observing Game State Transition Phase information is: 
+ MapLoaded
+Observing Issueing Orders Phase, Order to be executed is: 
+ Orders: Generic
+Observing Processing Orders Phase, order to added is: 
+Deploy
+Opened
+Observing Game State Transition Phase information is: 
+ MapLoaded
+Observing Issueing Orders Phase, Order to be executed is: 
+ Orders: Generic
+Observing Processing Orders Phase, order to added is: 
+Deploy
+Opened
+Observing Game State Transition Phase information is: 
+ MapLoaded
+Observing Issueing Orders Phase, Order to be executed is: 
+ Orders: Generic
+Observing Processing Orders Phase, order to added is: 
+Deploy
+Opened
+Observing Game State Transition Phase information is: 
+ MapLoaded
+Observing Issueing Orders Phase, Order to be executed is: 
+ Orders: Generic
+Observing Processing Orders Phase, order to added is: 
+Deploy
